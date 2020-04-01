@@ -1,0 +1,21 @@
+#data-table {
+  margin: 0 auto;
+}
+
+.navbar-brand {
+	flex-grow: 1;
+	justify-content: space-between;
+}
+
+.navbar-item img {
+    max-height: 3rem;
+}
+
+.hero-foot > nav > div > ul {
+	justify-content: center;
+}
+
+.foot-img {
+  	margin: 0 auto;
+	max-height: 24px;
+}
